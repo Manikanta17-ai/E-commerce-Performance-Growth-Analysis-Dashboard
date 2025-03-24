@@ -1,5 +1,8 @@
 # E-commerce-Performance-Growth-Analysis-Dashboard
-📌 Project Overview
+
+![Screenshot 2025-03-22 185147](https://github.com/user-attachments/assets/c6eff50e-fc37-4e1b-9ff8-acc4e7ebdb4e)
+
+**Project Overview**
 
 I have analyzes the performance of e-commerce platforms (JioMart, Swiggy Instamart, and Blinkit) by examining sales trends, customer behavior, and platform performance. The goal is to provide data-driven insights that help optimize business strategies and improve growth.
 
@@ -24,16 +27,19 @@ I have analyzes the performance of e-commerce platforms (JioMart, Swiggy Instama
 # Business Requirements for E-commerce Growth Analysis
 
 **1. Customer Satisfaction & Feedback Analysis**
+   
 Measure overall customer satisfaction across different platforms and product categories.
 
 Identify common customer complaints and positive feedback trends.
 
 **2. Order & Revenue Analysis**
+
 Track total revenue, average order value, and number of orders for each platform.
 
 Identify high-revenue and low-revenue product categories.
 
 **3. Delivery Performance & Operational Efficiency**
+
 Analyze average delivery time across different platforms.
 
 Track the percentage of delayed deliveries.
@@ -41,12 +47,17 @@ Track the percentage of delayed deliveries.
 Identify platforms with frequent refund requests.
 
 **4. Platform-Specific Performance**
+
 Compare the number of orders per platform.
 
 Identify the most popular product categories for each platform.
 
 **5. Customer Retention & Risk Assessment**
+
 Analyze the percentage of repeat vs. new customers.
+
+Identify customers with multiple refund requests to detect potential fraud or dissatisfaction.
+
 
 # Project Workflow
 
@@ -127,14 +138,34 @@ Delivery Time Analysis
 
 **Project Insights**: Refer to screenshots in the below Images  for key findings.
 
+![Screenshot 2025-03-22 185147](https://github.com/user-attachments/assets/c6eff50e-fc37-4e1b-9ff8-acc4e7ebdb4e)
 
-# Business Value
+![Screenshot 2025-03-22 185236](https://github.com/user-attachments/assets/e60ed9c6-ef24-45a9-a357-be9c9798cbc0)
 
-This analysis helps e-commerce businesses optimize pricing, customer retention, and operational efficiency. The insights drive informed decision-making for revenue growth and market expansion.
+![Screenshot 2025-03-22 185324](https://github.com/user-attachments/assets/29998517-a34d-4c89-aec3-950d4377f7ea)
+
+**Conclusion**
+
+This project provides a data-driven approach to analyzing e-commerce performance, enabling businesses to make informed decisions that enhance growth and efficiency. By leveraging SQL, Python (Pandas), and Power BI, i successfully extracted, cleaned, and visualized key insights, making the data more actionable for stakeholders.
+
+Key takeaways from this analysis include :
+
+Identifying best-performing platforms and product categories to optimize sales strategies.
+
+Understanding customer behavior to improve retention and minimize refund-related risks.
+
+Detecting sales trends and  patterns to optimize marketing efforts.
+
+
+With these insights, businesses can improve profitability, reduce operational risks, and enhance customer satisfaction in the highly competitive e-commerce market. This project demonstrates how data analytics can drive business growth, and I look forward to applying these methodologies to solve real-world challenges. 
 
 # Connect with Me
 
 If you found this project helpful, feel free to connect on LinkedIn or check out my other projects on GitHub!
 
-**linkedin**: 
+**linkedin**: www.linkedin.com/in/crm18
+
+**GitHub**: https://github.com/Manikanta17-ai
+
+**email id**: reddymanikantachalla@gmail.com
 
